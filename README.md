@@ -47,10 +47,12 @@ Week-1
 ---
 
 ## Weekly Progress
+| Week   | Platform | Challenge        | Category         | Status |
+| ------ | -------- | ---------------- | ---------------- | ------ |
+| Week 1 | picoCTF  | Obedient Cat     | General Skills   | ✅      |
+| Week 2 | picoCTF  | Riddle Registry  | Forensics        | ✅      |
+| Week 3 | picoCTF  | Crack the Gate 1 | Web Exploitation | ✅      |
 
-| Week   | Platform | Challenge    | Status    |
-| ------ | -------- | ------------ | --------- |
-| Week 1 | picoCTF  | Obedient Cat | Completed |
 
 More challenges will be added every week as part of the fellowship.
 
